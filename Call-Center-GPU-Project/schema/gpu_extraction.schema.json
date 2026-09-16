@@ -1,0 +1,151 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GPU Call Center Batch Schema",
+  "description": "Schema for a batch of GPU information collected from call center retailer research.",
+  "type": "object",
+  "required": [
+    "batch_number",
+    "records"
+  ],
+  "properties": {
+    "batch_number": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "agent",
+          "date",
+          "retail_id",
+          "location",
+          "retailer",
+          "source",
+          "products"
+        ],
+        "properties": {
+          "agent": {
+            "type": "string"
+          },
+          "date": {
+            "type": "string"
+          },
+          "retail_id": {
+            "type": "string"
+          },
+          "location": {
+            "type": "string"
+          },
+          "retailer": {
+            "type": "string"
+          },
+          "source": {
+            "type": "string"
+          },
+          "products": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "gpu_model",
+                "gpu_category",
+                "manufacturer",
+                "variant",
+                "price",
+                "availability",
+                "quantity",
+                "restock_date",
+                "confidence",
+                "evidence"
+              ],
+              "properties": {
+                "gpu_model": {
+                  "type": "string"
+                },
+                "gpu_category": {
+                  "type": "string",
+                  "enum": [
+                    "desktop_discrete",
+                    "laptop_gpu",
+                    "integrated",
+                    "unknown"
+                  ]
+                },
+                "manufacturer": {
+                  "type": "string"
+                },
+                "variant": {
+                  "type": "string"
+                },
+                "price": {
+                  "type": "object",
+                  "required": [
+                    "amount",
+                    "currency",
+                    "price_type",
+                    "raw"
+                  ],
+                  "properties": {
+                    "amount": {
+                      "type": [
+                        "number",
+                        "null"
+                      ]
+                    },
+                    "currency": {
+                      "type": "string"
+                    },
+                    "price_type": {
+                      "type": "string"
+                    },
+                    "raw": {
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    }
+                  }
+                },
+                "availability": {
+                  "type": "string",
+                  "enum": [
+                    "in_stock",
+                    "out_of_stock",
+                    "order_required",
+                    "unknown"
+                  ]
+                },
+                "quantity": {
+                  "type": [
+                    "integer",
+                    "string",
+                    "null"
+                  ]
+                },
+                "restock_date": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                "confidence": {
+                  "type": "string",
+                  "enum": [
+                    "high",
+                    "medium",
+                    "low"
+                  ]
+                },
+                "evidence": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+==================================================
+CALL CENTER GPU DATA ANALYSIS
+==================================================
+
+Total GPU records: 165
+Total retailers/stores: 44
+
+AVAILABILITY
+in_stock: 153
+order_required: 1
+out_of_stock: 11
+
+PRICE
+Average price: $632.64
+Lowest price: $109.00
+Highest price: $949.00
+
+MOST REPORTED GPU MODELS
+RTX 5080: 30
+RTX 5070: 26
+RTX 5060: 23
+RX 9070 XT: 13
+RTX 5090: 13
+RTX 5070 Ti: 11
+RTX 5060 Ti: 8
+RX 9060 XT: 8
+RX 9070: 5
+RTX 4080: 4
+
+MANUFACTURERS
+NVIDIA: 88
+AMD: 22
+Not stated: 14
+ASUS: 11
+PNY: 8
+MSI: 7
+Gigabyte: 7
+XFX: 3
+Sapphire: 2
+AMD / ASRock: 1
+AMD / Gigabyte: 1
+MSI / NVIDIA: 1
+
+CONFIDENCE
+high: 110
+medium: 42
+low: 13
+
+==================================================
+ANALYSIS COMPLETE
+==================================================

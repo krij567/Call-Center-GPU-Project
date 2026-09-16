@@ -1,0 +1,199 @@
+BEST BUY 
+Retailer_ID: VIXOQ9
+Location: 5201 US-280 W, Birmingham, AL 35242
+Date: September 10, 2026
+Agent: Princess
+
+Client
+Hi, thanks for calling Best Buy Birmingham. I'm your AI customer care assistant, and this call may be recorded to improve your experience.
+Edit
+Client
+By continuing, you agree to the terms of use and privacy policy on BestBuy.com. If you know your extension, please say extension. Now, what can I help you with?
+Edit
+You
+I'm calling to inquire GPU models.
+Edit
+You
+Particularly looking for available ones and its prices.
+Edit
+Client
+Sure, a few questions to get you going. Do you have a specific item in mind?
+Edit
+You
+Yes, I'm particularly looking for RTX 5070, RTX 5060 Ti, and then Radeon RX 9070 XT.
+Edit
+Client
+Nor, a few questions to get you going. Do you have a specific item in mind?
+Edit
+You
+RTX 5070 model GPU.
+Edit
+Client
+Please say yes or no.
+Edit
+Client
+Do you have a specific item in mind?
+Edit
+You
+Yeah.
+Edit
+Client
+Okay, do you have the item's SKU number? This can be found on the product page online.
+Edit
+You
+No, I don't.
+Edit
+Client
+No problem. What's the name of the item?
+Edit
+You
+RTX.
+Edit
+You
+the RTX 5070.
+Edit
+Client
+Okay, let's get you the support you need.
+Edit
+Client
+For the Pokemon Invite-only exclusive event, please visit BestBuy.com.
+Edit
+Client
+Selected customers will be notified. Our agents cannot support this promotion. If you are calling about Pokémon cards, our agents don't have additional inventory or release information beyond what's posted online.
+Edit
+Client
+Please hold for the next available agent.
+Edit
+Client
+Hi, thank you for calling Best Buy. You've reached our sales team. How can I help you today?
+Edit
+You
+Hi there, I'm calling to inquire GPU models. Do you guys currently sell individual graphics cards?
+Edit
+Client
+We do.
+Edit
+You
+Okay, I'm particularly looking for RTX 5070. Do you guys have that?
+Edit
+Client
+Let me take a look.
+Edit
+Client
+Right now it does look like I have the 5070 by both MSI priced at $849 and PNY at $799.
+Edit
+You
+Okay, and would you be able to tell me how many units are available?
+Edit
+Client
+It looks like they have one of...
+Edit
+You
+Okay, one of each. How about the 5060 Ti? Do you have it?
+Edit
+Client
+Let me double-check.
+Edit
+Client
+Were we planning to come by and pick one of these items up?
+Edit
+You
+We haven't really decided on a quantity yet, but we were also hoping to know if multi-units are purchased. Do you guys have a bulk price or a discount?
+Edit
+Client
+Depending on how many you were looking to purchase, we could connect you with our Best Buy for business to see if there's anything that they'd be able to offer.
+Edit
+You
+Okay, sure.
+Edit
+You
+Just let me know how much...
+Edit
+Client
+You wanna get content?
+Edit
+You
+Let me know first how much it be 5060 Ti if you have it available.
+Edit
+Client
+Yes, it does look like I have that one available as well. It's priced at $799.
+Edit
+You
+Um, what's the model for that? Is it MSI?
+Edit
+Client
+It is Asus.
+Edit
+You
+How about the Radeon RX 9700 XT?
+Edit
+Client
+Which one?
+Edit
+You
+It's the Radeon RX 970.
+Edit
+Client
+RX 97B is in boy.
+Edit
+You
+A 970.
+Edit
+Client
+The...
+Edit
+You
+Yes.
+Edit
+Client
+Okay.
+Edit
+Client
+No, I don't see that specific one.
+Edit
+Client
+Were you purchasing for like multiple computers?
+Edit
+You
+No, it's individual graphics card.
+Edit
+Client
+Mm-hmm.
+Edit
+You
+I'm particularly looking for...
+Edit
+You
+This is, uh...
+Edit
+You
+Standalone card, correct?
+Edit
+Client
+Yes.
+Edit
+You
+Okay, great. The 9070XT, do you have it?
+Edit
+Client
+9700 XT.
+Edit
+You
+Correct.
+Edit
+Client
+Mm.
+Edit
+Client
+No, that one we would have to order.
+Edit
+You
+I see. Okay, I think that's it for now. Thank you so much for your time.
+Edit
+You
+Have a good day.
+Edit
+Client
+Of course. OK, you too.
+Edit
+
