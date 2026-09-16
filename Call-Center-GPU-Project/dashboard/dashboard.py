@@ -2,7 +2,7 @@ import pandas as pd
 import altair as alt
 import streamlit as st
 
-CSV_FILE = "data/analysis_data.csv"
+CSV_FILE = "Call-Center-GPU-Project/data/analysis_data.csv"
 
 st.set_page_config(
     page_title="Call Center GPU Dashboard",
