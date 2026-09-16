@@ -1,0 +1,3310 @@
+{
+  "batch_number": 1,
+  "records": [
+    {
+      "agent": "Princess",
+      "date": "9/10/2026",
+      "retail_id": "MY09Y0",
+      "location": "5201 US-280 W, Birmingham, AL 35242",
+      "retailer": "Best Buy Birmingham",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "MSI",
+          "variant": "Not stated",
+          "price": {
+            "amount": 849.0,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“I have the 5070 by both MSI priced at $849” and “one of each.”"
+        },
+        {
+          "gpu_model": "RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "PNY",
+          "variant": "Not stated",
+          "price": {
+            "amount": 799.0,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“PNY at $799” and “one of each.”"
+        },
+        {
+          "gpu_model": "RTX 5060 Ti",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "ASUS",
+          "variant": "Not stated",
+          "price": {
+            "amount": 799.0,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“Yes, it does look like I have that one available as well. It's priced at $799.” / “It is Asus.”"
+        },
+        {
+          "gpu_model": "Radeon RX 9070 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Not stated",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "order_required",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "Customer asks for “9070XT”; agent says “No, that one we would have to order.”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/10/2026",
+      "retail_id": "B44RU3",
+      "location": "5072 Pinnacle Sq, Birmingham, AL 35235",
+      "retailer": "Best Buy Trussville",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "PNY",
+          "variant": "NVIDIA GeForce",
+          "price": {
+            "amount": 449.99,
+            "currency": "USD",
+            "price_type": "Retail_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“I have one on this one, on this model.” / “$449.99 for the 5060, RTX 5060.”"
+        },
+        {
+          "gpu_model": "RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "PNY",
+          "variant": "NVIDIA GeForce",
+          "price": {
+            "amount": 799.0,
+            "currency": "USD",
+            "price_type": "Retail_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“For the 5070, the price will be... 799.” / “I have it for delivery only. It will be free delivery tomorrow.”"
+        },
+        {
+          "gpu_model": "RTX 5070 Ti",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "PNY",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“One for $1,199, that will be the PNY.”"
+        },
+        {
+          "gpu_model": "RTX 5070 Ti",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "MSI",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "low",
+          "evidence": "Transcript: “I have the MS Piper 1000 $149.99” — wording is unclear/corrupted."
+        },
+        {
+          "gpu_model": "RTX 5070 Ti",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Gigabyte",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“$1,249.99.” / “A gigabyte exactly.”"
+        },
+        {
+          "gpu_model": "RTX 5070 Ti",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "MSI",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“Also, I have another MSI... that's the same price.”"
+        },
+        {
+          "gpu_model": "Radeon RX 9070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD / ASRock",
+          "variant": "Not stated",
+          "price": {
+            "amount": 669.99,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“RX 9070 for $669.99.” / “it's AMD exactly. The brand on this one is ASRock.” / “This one is for delivery.”"
+        },
+        {
+          "gpu_model": "Radeon RX 9070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD / Gigabyte",
+          "variant": "Not stated",
+          "price": {
+            "amount": 549.99,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "out_of_stock",
+          "quantity": "Not stated",
+          "restock_date": "Next Wednesday",
+          "confidence": "high",
+          "evidence": "“This is a gigabyte. The price is $549.99.” / “we don't have it on inventory for pickup” / “Next Wednesday.”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/10/2026",
+      "retail_id": "TVCBO3",
+      "location": "2070 7th Ave E, Tuscaloosa, AL",
+      "retailer": "Best Buy Tuscaloosa",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "RTX 5090",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "ASUS",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“We do have one RTX 5090, which is available for shipping.” / “Gonna be $3,699.99.” / “the 5090 is gonna be Asus brand.”"
+        },
+        {
+          "gpu_model": "RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "PNY",
+          "variant": "16GB, triple fan",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“RTX 5080 16GB of RAM graphics card with a triple fan.” / “The brand of the 3080 is gonna be PNY.” / $1,699.99"
+        },
+        {
+          "gpu_model": "Radeon RX 6900",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Gigabyte",
+          "variant": "16GB VRAM",
+          "price": {
+            "amount": 649.99,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“Radeon RX 6900” / “the brand is Gigabyte” / “$649.99, which is not available for pickup, but I can help you with the shipping.”"
+        },
+        {
+          "gpu_model": "Radeon RX 9070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Not stated",
+          "variant": "Not stated",
+          "price": {
+            "amount": 899.0,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“We don't have the 90, sorry, 9070” / “that's gonna cost you $899” / “available for shipping as well, not for the pickup.”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/10/2026",
+      "retail_id": "G3DLD4",
+      "location": "2147 Tiger Town Pkwy, Opelika, AL 36801",
+      "retailer": "Best Buy Auburn",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "RTX 5090",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Not stated",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“Buy for $4,399.” / Agent says these are among the editions “currently seeing available.”"
+        },
+        {
+          "gpu_model": "RTX 5090",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Not stated",
+          "variant": "2TB",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“A 2Trog version of the 5090 for $4,829.” / “currently seeing available.”"
+        },
+        {
+          "gpu_model": "RTX 5090",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "MSI / NVIDIA",
+          "variant": "NVIDIA version",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“MSI NVIDIA version for $4,299.” / “currently seeing available.”"
+        },
+        {
+          "gpu_model": "RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Overclocked, 16GB GDDR7",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“NVIDIA RTX 5080 overclocked 16GB GDDR7. We have one left for $1,699.”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/10/2026",
+      "retail_id": "M88102",
+      "location": "4863 Montgomery Hwy Ste 100, Dothan, AL 36303",
+      "retailer": "Best Buy",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "ASUS",
+          "variant": "ROG, 16GB",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Retail_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“Asus ROG 5080 16GB... $2,099.” Agent says it can be scheduled for pickup or shipping from warehouse."
+        },
+        {
+          "gpu_model": "RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "ASUS",
+          "variant": "Prime, 16GB GDDR7",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Retail_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“RTX 5080... 16 gigs, DDR7, for $1,699.99. That's an ASUS brand.”"
+        },
+        {
+          "gpu_model": "RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "PNY",
+          "variant": "NVIDIA, 16GB",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Retail_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“Another alternative here that we have available in stock... PNY NVIDIA RTX 5080.”"
+        },
+        {
+          "gpu_model": "RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Gigabyte",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“Gigabyte... $100 discount... now it's $1,599.99.”"
+        },
+        {
+          "gpu_model": "Radeon RX 9070 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "XFX",
+          "variant": "16GB",
+          "price": {
+            "amount": 899.0,
+            "currency": "USD",
+            "price_type": "Retail_price",
+            "raw": null
+          },
+          "availability": "out_of_stock",
+          "quantity": 0,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“The 9070 XT, we don't have anything on-site available... but we can order it.” / “RX 9070 16GB for $899.”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/10/2026",
+      "retail_id": "13K568",
+      "location": "10200-130 Eastern Shore Blvd, Daphne, AL",
+      "retailer": "Best Buy",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "PNY",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Low_quantity",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“That store has a PNY RTX 5080 in stock.” / “act fast, low quantities.”"
+        },
+        {
+          "gpu_model": "RTX 5060 Ti",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Not stated",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Low_quantity",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“RTX 5060 Ti” / “All three of those are in stock at the Spanish Fort store.” / “act fast, low quantities.”"
+        },
+        {
+          "gpu_model": "Unknown / unclear (“780i”)",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Not stated",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Low_quantity",
+          "restock_date": "Not stated",
+          "confidence": "low",
+          "evidence": "“And then I picked 780i. All three of those are in stock...” The model is unclear due to transcription."
+        },
+        {
+          "gpu_model": "Radeon RX 9070 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Gigabyte",
+          "variant": "Gaming",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“Gigabyte brand, Radeon RX 9070XT Gaming.” / “It's in stock at the Spanish Fort store.”"
+        },
+        {
+          "gpu_model": "Radeon RX 7600",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD",
+          "variant": "Speedster",
+          "price": {
+            "amount": 369.99,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“Speedster AMD Radeon RX 7600.” / “At $369.99.”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/5/2026",
+      "retail_id": "QAYFV5",
+      "location": "6123 University Dr NW, Huntsville, AL 35806",
+      "retailer": "Gigaparts Huntsville",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "MSI",
+          "variant": "NVIDIA GeForce, 8GB Shadow 2X OC",
+          "price": {
+            "amount": 479.99,
+            "currency": "USD",
+            "price_type": "Before tax",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“MSI NVIDIA GeForce RTX 5060 8GB Shadow 2X OC” / “$479.99 before tax” / “I think I only have the one.”"
+        },
+        {
+          "gpu_model": "Radeon RX 9060 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Sapphire",
+          "variant": "Not stated",
+          "price": {
+            "amount": 519.99,
+            "currency": "USD",
+            "price_type": "Before tax",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 5,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“Radeon RX 9060 XT” / “$519.99 before tax” / “I still have about five of those.”"
+        },
+        {
+          "gpu_model": "RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "MSI",
+          "variant": "Z4, 16GB Inspire 3X OC",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Before tax",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 4,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“MSI Z4 RTX 5080. 16GB Inspire 3X OC” / “$1,720.99 before tax” / “I have about four.”"
+        },
+        {
+          "gpu_model": "RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Not stated",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "Agent explicitly says “We have a 5070.” / “we do have computer graphic cards in stock.”"
+        },
+        {
+          "gpu_model": "RTX 5070 Ti",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Not stated",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "Agent explicitly says “a 5070 Ti.”"
+        },
+        {
+          "gpu_model": "Radeon RX 9070 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Sapphire",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "Agent says “we also have... a Radeon RX 9070 XT” and identifies the AMD cards as Sapphire."
+        },
+        {
+          "gpu_model": "RTX 5090",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Not stated",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "out_of_stock",
+          "quantity": 0,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“No, it does not look like I have any 5090s in stock.”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/11/2026",
+      "retail_id": "E9TJVL",
+      "location": "Dimond Mall, 800 E Dimond Blvd #100, Anchorage, AK 99515, United States",
+      "retailer": "Best Buy",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "RTX 5090",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "ASUS",
+          "variant": "TUF Gaming, 32GB",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Retail_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Plenty",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“ASUS TUF Gaming NVIDIA GeForce RTX 5090 32GB” / “$7,599.99” / “They have a lot. They have plenty of them.”"
+        },
+        {
+          "gpu_model": "RTX 5090",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Not stated",
+          "variant": "ROG XG Mobile, laptop GPU",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Retail_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“ROCK XG Mobile external graphic card NVIDIA GeForce RTX 5090 laptop GPU.” / “$3,699.”"
+        },
+        {
+          "gpu_model": "RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "ASUS",
+          "variant": "Prime, 16GB, DDR7, Express 5.0, Black",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Retail_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“ASUS Prime NVIDIA GeForce RTX 5080. 16 gigabytes... for $1,599.” / “those are the two models that I have available.”"
+        },
+        {
+          "gpu_model": "RTX 5090",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Not stated",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "low",
+          "evidence": "“I have a 5090... It's $7,000.” This appears to be an earlier/general price statement that conflicts with the later specific $3,699 and $7,599.99 listings."
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/12/2026",
+      "retail_id": "X129HK",
+      "location": "TIkahtnu Commons, 1200 N Muldoon Rd G, Anchorage, AK 99504, United States",
+      "retailer": "Best Buy",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "RTX 5090",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Not stated",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "out_of_stock",
+          "quantity": 0,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“On the 5090... we don't have those in stock.” / “I don't have the price because we don't have them in our system.”"
+        },
+        {
+          "gpu_model": "RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "PNY",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“The PNY 5080. The price at $1,699.” / “I have one available.”"
+        },
+        {
+          "gpu_model": "RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "MSI",
+          "variant": "NVIDIA GeForce",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“The MSI 5080 is priced at $1,789.” / “MSI NVIDIA GeForce RTX”"
+        },
+        {
+          "gpu_model": "RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "ASUS",
+          "variant": "ROG",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“$2,099.99. With the Asus ROG...” / Agent discusses it among available 5080 options."
+        },
+        {
+          "gpu_model": "Radeon RX 9070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "XFX",
+          "variant": "Not stated",
+          "price": {
+            "amount": 549.99,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“The XFX... AMD Radeon RX... starts out at $549.99.”"
+        },
+        {
+          "gpu_model": "Radeon RX 9070 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "ASUS",
+          "variant": "ROG Challenger",
+          "price": {
+            "amount": 859.99,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“ASUS ROG Challenger Radeon RX...” / “RX 9700 XT... $859.99.”"
+        },
+        {
+          "gpu_model": "Radeon RX 9070 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "XFX",
+          "variant": "AMD Radeon",
+          "price": {
+            "amount": 869.99,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“$869.99.” / Agent identifies an AMD Radeon RX 9700 XT and later confirms a 9070-series card is in stock."
+        },
+        {
+          "gpu_model": "Radeon RX 5700 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Gigabyte",
+          "variant": "AMD Radeon",
+          "price": {
+            "amount": 929.99,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“Gigabyte Radeon RX 5700 XT. That one's priced at $929.99.”"
+        },
+        {
+          "gpu_model": "RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Not stated",
+          "variant": "Not stated",
+          "price": {
+            "amount": 900.99,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "low",
+          "evidence": "“AMD Radeon... NVIDIA RTX 5070, that one price at $900.99.” The transcript is unclear/corrupted."
+        }
+      ]
+    },
+    {
+      "agent": "Princess",
+      "date": "9/3/2026",
+      "retail_id": "MP8ISY",
+      "location": "15815 Monte Street, Suite F102, Sylmar, CA 91342",
+      "retailer": "AAAWave",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Gigabyte",
+          "variant": "Gaming, 12GB GDDR7",
+          "price": {
+            "amount": 839.99,
+            "currency": "USD",
+            "price_type": "Listed price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 266,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“We do have Gigabyte RTX 5070 gaming ones. With 12 gigabytes of DDR7.” / “listed at $839.99.” / “we have 266 in stock.”"
+        }
+      ]
+    },
+    {
+      "agent": "Jecirie",
+      "date": "9/8/2026",
+      "retail_id": "7F4P0F",
+      "location": "900 Loughborough Dr. Ste B  Merced, CA 95340",
+      "retailer": "Action Computers",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "RTX 3070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "GeForce",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "out_of_stock",
+          "quantity": 0,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“We do not have one of those in stock.”"
+        },
+        {
+          "gpu_model": "Radeon RX 580",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD",
+          "variant": "Radeon",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not stated",
+            "raw": null
+          },
+          "availability": "out_of_stock",
+          "quantity": 0,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“RX 580, we don't have one of those in stock either.”"
+        },
+        {
+          "gpu_model": "RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "GeForce",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Approximate_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“We've got a 5060 in stock.” / “I believe it's $449.99 or somewhere around there.”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/10/2026",
+      "retail_id": "41GZTR",
+      "location": "3777 Stevens Creek Blvd. Santa Clara, CA Near Highway 280",
+      "retailer": "Central Computers",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "RTX 5090",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "ASUS",
+          "variant": "Astral, Black",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 7,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“Across all of our stores, we're gonna have seven Astros” / “The black Astro is gonna be $4,829.99.”"
+        },
+        {
+          "gpu_model": "RTX 5090",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "ASUS",
+          "variant": "Astral, White",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 6,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“six Astros in white” / “The White Astro is $4,929.99.”"
+        },
+        {
+          "gpu_model": "RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "ASUS",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Approximate_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“50-60... about $600” and later “ASUS is gonna be closer to $500.”"
+        },
+        {
+          "gpu_model": "RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Gigabyte",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Approximate_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“The brands range from ASUS to... Asus, Gigabyte, and MSI.” / “you're looking at about $500 to $600.”"
+        },
+        {
+          "gpu_model": "RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "MSI",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Approximate_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“MSI, you're probably looking at about $450.”"
+        },
+        {
+          "gpu_model": "RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "Not stated",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Approximate_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“5070s in general are about $900.”"
+        },
+        {
+          "gpu_model": "Radeon RX 9070 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Approximate_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“We do carry the AMD cards. 9070XTs are running for about $800 across all models.”"
+        }
+      ]
+    },
+    {
+      "agent": "Jecirie",
+      "date": "9/10/2026",
+      "retail_id": "BIU2DU",
+      "location": "1610 Garden of the Gods Rd, Colorado Springs, CO 80907",
+      "retailer": "Tech for Less",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 4080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“Looks like we do have a unit for $1,260.” / “Yes, ma'am. $1,261.97.”"
+        }
+      ]
+    },
+    {
+      "agent": "Jecirie",
+      "date": "9/12/2026",
+      "retail_id": "5DSBY4",
+      "location": "265 E 29th St, Loveland, CO 80538",
+      "retailer": "PCs & Parts",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "MSI Ventus Triple Fan",
+          "price": {
+            "amount": 429.0,
+            "currency": "USD",
+            "price_type": "Retail_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "Agent stated: “The only 5000 series that I have right now is an RTX 5060.” Then confirmed MSI Ventus triple fan at $429."
+        },
+        {
+          "gpu_model": "RX 9060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Typical_price",
+            "raw": null
+          },
+          "availability": "out_of_stock",
+          "quantity": 0,
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "Agent said they “don’t have any of those in stock at the moment” and that they typically keep 9060s in stock, with both models “right around $599 when we do have them.”"
+        },
+        {
+          "gpu_model": "RX 9060 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Typical_price",
+            "raw": null
+          },
+          "availability": "out_of_stock",
+          "quantity": 0,
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "Agent said they “don’t have any of those in stock at the moment” and that 9060/9060 XT are typically around $599 when available."
+        }
+      ]
+    },
+    {
+      "agent": "Jecirie",
+      "date": "9/12/2026",
+      "retail_id": "PTJY3B",
+      "location": "524 W. Laurel #2, Fort Collins, CO 80521",
+      "retailer": "Run PC Computers",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce GTX 1070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Not stated",
+          "price": {
+            "amount": 119.0,
+            "currency": "USD",
+            "price_type": "Retail_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "—",
+          "confidence": "medium",
+          "evidence": "Client stated: “We have some 1070s” and identified the brand as NVIDIA, saying they believe they sell those for $119."
+        },
+        {
+          "gpu_model": "GeForce GT 710",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Not stated",
+          "price": {
+            "amount": 119.0,
+            "currency": "USD",
+            "price_type": "Retail_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "—",
+          "confidence": "medium",
+          "evidence": "Client stated: “We have some 710s,” then said “Nvidia, and I believe we sell those for $119.”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/12/2026",
+      "retail_id": "KIA44A",
+      "location": "4040 S College Ave Fort Collins, CO 80525",
+      "retailer": "Best Buy",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5090",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "ASUS TUF Gaming Triple Fan",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“The only one available right now is [ASUS TUF Gaming].” / “That one's gonna be $7,600.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "PNY",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“For the 5080, we do have the PNY” / “that one's gonna be $1,700.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Astro",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“We have the Astro” / “that one is gonna be $2,100 right now.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Gigabyte",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“There's a Gigabyte one, that one's gonna be 1600.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "ASUS Prime",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“There's an Asus Prime” / “1700.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Gigabyte Windforce",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“There's a Gigabyte Windforce” / “that would be $1,500.”"
+        },
+        {
+          "gpu_model": "Radeon RX 9060 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD",
+          "variant": "Gigabyte Gaming",
+          "price": {
+            "amount": 650.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“Gigabyte 9060 XT gaming, that was gonna be $650.”"
+        },
+        {
+          "gpu_model": "Radeon RX 9060 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD",
+          "variant": "Not stated",
+          "price": {
+            "amount": 520.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "low",
+          "evidence": "“Then we have… At the fact. That one's gonna be $520 right now.” Model/variant is unclear in the transcript."
+        },
+        {
+          "gpu_model": "Radeon RX 9060 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD",
+          "variant": "Gigabyte OC",
+          "price": {
+            "amount": 688.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“We have a Gigabyte OC that was gonna be 688.”"
+        },
+        {
+          "gpu_model": "Radeon RX 9060 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD",
+          "variant": "PowerColor",
+          "price": {
+            "amount": 495.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“We have a power color for 495.”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/9/2026",
+      "retail_id": "E8JC2S",
+      "location": "1509 Yellowstone Ave, Pocatello, ID 83201, United States",
+      "retailer": "Computer Warehouse",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "PNY",
+          "price": {
+            "amount": 449.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“We have the 5060 and 5070.” / “The 3050 would be $449”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/9/2026",
+      "retail_id": "E8JC2S",
+      "location": "1510 Yellowstone Ave, Pocatello, ID 83201, United States",
+      "retailer": "Computer Warehouse",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "ASUS",
+          "price": {
+            "amount": 789.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“We have the 5060 and 5070.” / “The 3070 would be $789.”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/9/2026",
+      "retail_id": "E8JC2S",
+      "location": "1511 Yellowstone Ave, Pocatello, ID 83201, United States",
+      "retailer": "Computer Warehouse",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "Radeon RX 9070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD",
+          "variant": "ASUS",
+          "price": {
+            "amount": 699.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“For AMD, I would have an RX 970.” / “That one is Asus with a price of $699.” / “It looks like I have one.”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/9/2026",
+      "retail_id": "B84OD7",
+      "location": "385 May St, Idaho Falls, ID 83401, United States",
+      "retailer": "AMT Computers and Electronics",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "PNY",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Low_quantity",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“I have one 5080” / “The PMY5080 is 1609.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "PNY",
+          "price": {
+            "amount": 859.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Low_quantity",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“I have ... three 5070s” / “And the 5070 is $859.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "PNY",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "out_of_stock",
+          "quantity": 2,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“It looks like there's two more 5080s coming in.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "PNY",
+          "price": {
+            "amount": 859.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "out_of_stock",
+          "quantity": 3,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“Three more 5070s.”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/9/2026",
+      "retail_id": "BDEVVY",
+      "location": "3094 Richmond Rd #120, Lexington, KY 40509",
+      "retailer": "Paymore",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "MSI Ventus",
+          "price": {
+            "amount": 600.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“The only thing we have closest to that is an RTX 5060.” / “It's an MSI. It's the Ventus.” / “It's 600.” / “We only have one.”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/9/2026",
+      "retail_id": "WMKIS3",
+      "location": "577 Oak Villa Blvd Baton Rouge, LA 70815",
+      "retailer": "Computer Heaven",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Gigabyte",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“Right now, we have the Gigabyte GeForce 5070.” / “For 1,500.” / “One of the regular 5070.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5070 Ti",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 2,
+          "restock_date": "Not stated",
+          "confidence": "low",
+          "evidence": "“We have the 5070 Ti for $18.” / “two of the 5070 TIs.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "ASUS Prime",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“In terms of the 5080, we have one.” / “For $2,500.” / “That is an Asus Prime.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Gigabyte",
+          "price": {
+            "amount": 699.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“We have the Gigabyte, like 50-60.” / “For $699.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5050 Ti",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Not stated",
+          "price": {
+            "amount": 799.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“The 5050 Ti for $899. I mean $799, I'm sorry.”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/9/2026",
+      "retail_id": "VD268X",
+      "location": "900 Horton Rd, Jackson, MI 49203",
+      "retailer": "ProTech Computers",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5050",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Not stated",
+          "price": {
+            "amount": 269.95,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“I have a 5050 open box” / “for $269.95.”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/8/2026",
+      "retail_id": "9QA5MC",
+      "location": "1415 NE Douglas St, Lee's Summit, MO 64086, United States",
+      "retailer": "Paymore",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "Radeon RX 7600 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD",
+          "variant": "ASRock",
+          "price": {
+            "amount": 389.99,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“Our Overland Park location does have a... 7600?” / “The 7600XT” / “It's as rock.” / “Can we only have one” / “389.99.”"
+        }
+      ]
+    },
+    {
+      "agent": "Princess",
+      "date": "9/7/2026",
+      "retail_id": "OE5Q6Z",
+      "location": "Q233+5F New York, USA",
+      "retailer": "B&H Foto & Electronics Corp.",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "ASUS Dual OC",
+          "price": {
+            "amount": 469.99,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“Mainly from ASUS, we have like the 5060 Dual OC graphics card” / “$469.99” / “There's only one unit”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "ASUS Triple Fan",
+          "price": {
+            "amount": 489.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 3,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“another model called a three fan for $489” / “three units of the one that is $489”"
+        }
+      ]
+    },
+    {
+      "agent": "Princess",
+      "date": "9/8/2026",
+      "retail_id": "IHY1A0",
+      "location": "1016 Union Rd, West Seneca, NY 14224, United States",
+      "retailer": "PC Plug",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "PNY OC",
+          "price": {
+            "amount": 769.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 2,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“I carry the PNY OC.” / “769.” / “2.” / “Yes, retail packaging.”"
+        }
+      ]
+    },
+    {
+      "agent": "Princess",
+      "date": "9/8/2026",
+      "retail_id": "L3N4P1",
+      "location": "8548 University City Blvd Charlotte, NC 28213",
+      "retailer": "PayMore",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce GTX 1650",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Not stated",
+          "price": {
+            "amount": 109.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“I have a 1650, I have a 2060, I have a 1660” / “a GTX 1650, that's listed for $109” / “One of each.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 2060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Not stated",
+          "price": {
+            "amount": 152.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“I have a RTX 2060.” / “Listed for $152.” / “One of each.”"
+        },
+        {
+          "gpu_model": "GeForce GTX 1660 Super",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Not stated",
+          "price": {
+            "amount": 144.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“I have a GTX 1660 Super listed for $144.” / “One of each.”"
+        }
+      ]
+    },
+    {
+      "agent": "Princess",
+      "date": "9/8/2026",
+      "retail_id": "X4DDI9",
+      "location": "10610 Metromont Pkwy Suite 100, Charlotte, NC 28269",
+      "retailer": "ATD Computers",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5070 Ti",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "PNY OC RGB",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 2,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“We do have some 5070 TIs” / “$1,099” / “PNY OC RGB 5070 Ti” / “we have two of the 5070 TIs”"
+        },
+        {
+          "gpu_model": "GeForce RTX 4070 Super",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "MSI Gaming X Slim",
+          "price": {
+            "amount": 899.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“MSI Gaming X Slim 4070 Super” / “we just have one of those left” / “going for $899”"
+        },
+        {
+          "gpu_model": "Radeon RX 9060 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD",
+          "variant": "ASRock Challenger",
+          "price": {
+            "amount": 599.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“ASRock Challenger AMD Radeon 9060XT” / “going for $599” / “for everything else, we just have one each”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Gigabyte",
+          "price": {
+            "amount": 479.0,
+            "currency": "USD",
+            "price_type": "Not_stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“we also have an RTX 5060, that's a gigabyte” / “for everything else, we just have one each”"
+        }
+      ]
+    },
+    {
+      "agent": "Princess",
+      "date": "9/8/2026",
+      "retail_id": "UJEFUU",
+      "location": "4731 Levick Street, Philadelphia, PA - 19135",
+      "retailer": "InOs Computers",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Not stated",
+          "price": {
+            "amount": 441.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“We have one at ... 441 right now” / later discussion confirms the 5060"
+        },
+        {
+          "gpu_model": "GeForce RTX 4060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "ASUS Dual",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not_stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“we have an Asus dual” / “we have an Asus dual, but why would you get a 4060?”"
+        },
+        {
+          "gpu_model": "Radeon RX 6800",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not_stated",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "low",
+          "evidence": "“Is the 6800 available?” / “I think we have an XP.”"
+        }
+      ]
+    },
+    {
+      "agent": "Princess",
+      "date": "9/7/2026",
+      "retail_id": "EY5XK6",
+      "location": "2101 W 41st St Sioux Falls, SD 57105",
+      "retailer": "Best Buy",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Not stated",
+          "price": {
+            "amount": 449.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“We have some 50-60s” / “starting with the 5060, that one's currently priced at $449.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5060 Ti",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Not stated",
+          "price": {
+            "amount": 789.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“We have some ... 5060ti's” / “The 5060 Ti, you're gonna jump up to $789.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Not stated",
+          "price": {
+            "amount": 949.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“We have some ... 5070s” / “A 5070 is priced at $949.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5070 Ti",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“We have some ... 5070ti's” / “a 5070 Ti will jump up to $1,249.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "ASUS",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“The 5080 ... priced at $1,699” / “That's one of the Asus ... options.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "PNY",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“We do have the PNY option ... priced at $1,699” / “That's one of the ... PNY options.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“one used option, which is priced at $2,099” / later clarified all three 5080 options are different brands/versions; exact brand for the $2,099 option not established."
+        }
+      ]
+    },
+    {
+      "agent": "Princess",
+      "date": "9/8/2026",
+      "retail_id": "MLOIX4",
+      "location": "2320 N Haines Ave Rapid City, SD 57701",
+      "retailer": "Best Buy",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "PNY",
+          "price": {
+            "amount": 449.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“I do have, I have a PY source of RTX 5060.” / “I have that one in stock” / “449 for the 5060” / “there's one of each in there.”"
+        }
+      ]
+    },
+    {
+      "agent": "Princess",
+      "date": "9/8/2026",
+      "retail_id": "MLOIX5",
+      "location": "2320 N Haines Ave Rapid City, SD 57701",
+      "retailer": "Best Buy",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5060 Ti",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "MSI",
+          "price": {
+            "amount": 599.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“I am MSI.” / “599 for the 5060 Ti.” / “there's one of each in there.”"
+        }
+      ]
+    },
+    {
+      "agent": "Princess",
+      "date": "9/8/2026",
+      "retail_id": "MLOIX6",
+      "location": "2320 N Haines Ave Rapid City, SD 57701",
+      "retailer": "Best Buy",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5060 Ti",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "PNY",
+          "price": {
+            "amount": 499.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“I just found another 5060 Ti that was $499.” / “the PNY one would be a little better.”"
+        }
+      ]
+    },
+    {
+      "agent": "Princess",
+      "date": "9/8/2026",
+      "retail_id": "MLOIX7",
+      "location": "2320 N Haines Ave Rapid City, SD 57701",
+      "retailer": "Best Buy",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "MSI",
+          "price": {
+            "amount": 849.0,
+            "currency": "USD",
+            "price_type": "Approximate_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“for 5070, I do have a 5070 and MSI brand.” / “It starts at about $849.”"
+        }
+      ]
+    },
+    {
+      "agent": "Princess",
+      "date": "9/8/2026",
+      "retail_id": "MLOIX8",
+      "location": "2320 N Haines Ave Rapid City, SD 57701",
+      "retailer": "Best Buy",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5070 Ti",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Gigabyte",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Approximate_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“I have a 5070 Ti in gigabyte Nvidia GeForce RTX.” / “I have in stock.” / “it starts at about 12:49.”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/8/2026",
+      "retail_id": "DOTHDA",
+      "location": "2520 S Minnesota Ave, Sioux Falls, SD 57105",
+      "retailer": "PC Gold",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "MSI",
+          "price": {
+            "amount": 449.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 2,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“we carry MSI and Gigabyte” / “they are running 449 currently” / “We have two of each available”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/8/2026",
+      "retail_id": "DOTHDA",
+      "location": "2521 S Minnesota Ave, Sioux Falls, SD 57105",
+      "retailer": "PC Gold",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Gigabyte",
+          "price": {
+            "amount": 449.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 2,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“we carry MSI and Gigabyte” / “they are running 449 currently” / “We have two of each available”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/8/2026",
+      "retail_id": "DOTHDA",
+      "location": "2522 S Minnesota Ave, Sioux Falls, SD 57105",
+      "retailer": "PC Gold",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5060 Ti",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "MSI",
+          "price": {
+            "amount": 749.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“we also have the 5060 Ti's in MSI and Zotac” / “those are on $749”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/8/2026",
+      "retail_id": "DOTHDA",
+      "location": "2523 S Minnesota Ave, Sioux Falls, SD 57105",
+      "retailer": "PC Gold",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5060 Ti",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Zotac",
+          "price": {
+            "amount": 749.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“we also have the 5060 Ti's in MSI and Zotac” / “those are on $749” / “we have three of those total”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/8/2026",
+      "retail_id": "DOTHDA",
+      "location": "2524 S Minnesota Ave, Sioux Falls, SD 57105",
+      "retailer": "PC Gold",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "Radeon RX 9060 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD",
+          "variant": "Gigabyte",
+          "price": {
+            "amount": 359.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“we have one 9060 XT, Gigabyte brand” / “Round 359.”"
+        }
+      ]
+    },
+    {
+      "agent": "Francyn",
+      "date": "9/8/2026",
+      "retail_id": "7B9J5K",
+      "location": "3215 Belmeade Dr, Carrollton, TX 75006, United States",
+      "retailer": "Altex Belmeade",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "MSI",
+          "price": {
+            "amount": 419.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“I've got a 5060 for $419” / “MSI” / “One.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "ASUS",
+          "price": {
+            "amount": 414.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“I've got a 5060 for $419 and one for $414.” / “MSI and Asus.”"
+        }
+      ]
+    },
+    {
+      "agent": "Princess",
+      "date": "9/8/2026",
+      "retail_id": "2J6D6C",
+      "location": "18670 Northwest Fwy, Houston, TX 77065, United States",
+      "retailer": "Altex Houston",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "MSI Shadow 3X",
+          "price": {
+            "amount": 829.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“I have one 5070, and it's the MSI Shadow 3X GeForce RTX 5070.” / “That one is 829.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "ASUS Prime",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Approximate_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“I have one ASUS Prime GeForce RTX 5080.” / “Those run about $1600.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5070 Ti",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "MSI Shadow 3X",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“I have the MSI also Shadow 3X RTX 5070 Ti for $1,200.”"
+        },
+        {
+          "gpu_model": "Radeon RX 9070 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD",
+          "variant": "Not stated",
+          "price": {
+            "amount": 849.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“I have the RX 9070 XT for $849. I don't have the 9060.”"
+        }
+      ]
+    },
+    {
+      "agent": "Princess",
+      "date": "9/8/2026",
+      "retail_id": "E250DR",
+      "location": "11342 I-35 Frontage Rd, San Antonio, TX 78233, United States",
+      "retailer": "Altex San Antonio",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "MSI",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“currently we actually have two” / “The 5080” / “One's an MSI for $1599” / later “I have one of each”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "ASUS",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“The 5080” / “the other one's an ASUS for $1699” / “I have one of each”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "ASUS",
+          "price": {
+            "amount": 829.99,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“for the 5070” / “Both of them are also the same, Asus and MSI. Both of them are $829.99” / “I have one of each”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "MSI",
+          "price": {
+            "amount": 829.99,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“for the 5070” / “Both of them are also the same, Asus and MSI. Both of them are $829.99” / “I have one of each”"
+        },
+        {
+          "gpu_model": "Radeon RX 9060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD",
+          "variant": "Not stated",
+          "price": {
+            "amount": 509.99,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "low",
+          "evidence": "“I do have a 960 called, so I have one of those. It's an AMD 960. 16GB for $509.99.”"
+        }
+      ]
+    },
+    {
+      "agent": "Princess",
+      "date": "9/9/2026",
+      "retail_id": "GLT1WJ",
+      "location": "9914 N Interstate Hwy 35, Austin, TX 78753, United States",
+      "retailer": "Altex Austin",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "ASUS",
+          "price": {
+            "amount": 830.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“one model from Asus and one model from MSI” / “they're the same price, $829” / “We have one of each”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "MSI",
+          "price": {
+            "amount": 830.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“one model from Asus and one model from MSI” / “$830” / “We have one of each”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "ASUS",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“We have one 5080 available, manufactured by Asus.” / “And it's $1,700.”"
+        },
+        {
+          "gpu_model": "Radeon RX 9070 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 4,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“a couple different models of the 9070XTs” / “range in price from $770 up to $850” / “We've got a total of four.”"
+        }
+      ]
+    },
+    {
+      "agent": "Princess",
+      "date": "9/9/2026",
+      "retail_id": "W6I84K",
+      "location": "1337 W 43rd St, Houston, TX 77018, United States",
+      "retailer": "Servers Fit",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "S200",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 50,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“we are offering S200 at $40,000” / “We have 50 available right now that are ready to ship.”"
+        },
+        {
+          "gpu_model": "A100",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 100,
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“100 available in refurbished condition at the price of $22,000” / later bulk discussion explicitly mentions “A100s”"
+        },
+        {
+          "gpu_model": "L40S",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 150,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“L40s available as well for the price of $8,000 in new condition” / “around 150 units that are ready to ship”"
+        },
+        {
+          "gpu_model": "GeForce RTX 4080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“we do a 4080 as well” / “NVIDIA is the source RTX” / “the price is like, you know, $3,000”"
+        },
+        {
+          "gpu_model": "GeForce RTX 4070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not stated",
+          "restock_date": "Not stated",
+          "confidence": "low",
+          "evidence": "User asks “how about the 4070?” / agent says “RTX 70” and “those are available as well at a price of $1,300.”"
+        }
+      ]
+    },
+    {
+      "agent": "Princess",
+      "date": "9/9/2026",
+      "retail_id": "NRNNDM",
+      "location": "14215 San Pedro Ave, San Antonio, TX 78232, United States",
+      "retailer": "Altex Computers & Electronics",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Gigabyte",
+          "price": {
+            "amount": 489.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 9,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“I got a Gigabyte for $489. I got nine of those ready to go.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "MSI Shadow X3",
+          "price": {
+            "amount": 489.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 4,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“I've got the MSI Shadow X3. It looks like there's four across my company for also $489.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "ASUS TUF Gaming OC",
+          "price": {
+            "amount": 849.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 3,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“the Asus TUF Gaming OC for $849 as well, and there's three across the company.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "ASUS Prime",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 5,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“The ASUS Prime is $1,699 and there's five across the company.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "MSI Shadow X3",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 2,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“the other one is $1,599, and there's only two across the company.” / Previous sentence identifies the other version as “the Shadow X3 from MSI.”"
+        },
+        {
+          "gpu_model": "Radeon RX 9060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD",
+          "variant": "ASRock Challenger",
+          "price": {
+            "amount": 509.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 11,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“The 9060, I only stock one version of. It's gonna be the ASRock, the Challenger.” / “Those are 509, and there's 11 across the company.”"
+        },
+        {
+          "gpu_model": "Radeon RX 9070 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD",
+          "variant": "ASUS Prime",
+          "price": {
+            "amount": 849.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 2,
+          "restock_date": "Not stated",
+          "confidence": "low",
+          "evidence": "“It looks like we stock three different versions of that one. We've got the ASUS Prime.” / “I only have two of across the company at $849.”"
+        },
+        {
+          "gpu_model": "Radeon RX 9070 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD",
+          "variant": "Sapphire Pulse",
+          "price": {
+            "amount": 849.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 4,
+          "restock_date": "Not stated",
+          "confidence": "low",
+          "evidence": "“There's the Sapphire Pulse, which there's four across the company at $849.”"
+        },
+        {
+          "gpu_model": "Radeon RX 9070 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD",
+          "variant": "ASRock White",
+          "price": {
+            "amount": 769.0,
+            "currency": "USD",
+            "price_type": "Sale_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 9,
+          "restock_date": "Not stated",
+          "confidence": "low",
+          "evidence": "“a couple stragglers of the ASRock white one for $769 on sale right now, and there's nine across the company.”"
+        }
+      ]
+    },
+    {
+      "agent": "Princess",
+      "date": "9/9/2026",
+      "retail_id": "KUJDSA",
+      "location": "7502 N Loop 1604 W, San Antonio, TX 78249, United States",
+      "retailer": "Altex",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "MSI Shadow",
+          "price": {
+            "amount": 850.0,
+            "currency": "USD",
+            "price_type": "Approximate_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“we tend to carry the MSI Shadow, MSI Tempest, and Gigabyte” / “Currently, we only have one of each” / user confirms “850 dollar” and agent responds “850”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "MSI Tempest",
+          "price": {
+            "amount": 850.0,
+            "currency": "USD",
+            "price_type": "Approximate_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“we tend to carry the MSI Shadow, MSI Tempest, and Gigabyte” / “Currently, we only have one of each” / price discussion around “850”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Gigabyte",
+          "price": {
+            "amount": 850.0,
+            "currency": "USD",
+            "price_type": "Approximate_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“we tend to carry the MSI Shadow, MSI Tempest, and Gigabyte” / “Currently, we only have one of each” / price discussion around “850”"
+        },
+        {
+          "gpu_model": "GeForce RTX 4080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "ASUS Prime",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“we do have the ASUS Prime, that is $1,700” / “I actually have two”"
+        },
+        {
+          "gpu_model": "GeForce RTX 4080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "MSI Shadow",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“we also have the Shadow, that is $1,600” / “I actually have two”"
+        }
+      ]
+    },
+    {
+      "agent": "Princess",
+      "date": "9/15/2026",
+      "retail_id": "3ZJDUL",
+      "location": "5500 S Redwood Rd, Suite 203, Taylorsville, UT 84123",
+      "retailer": "TamDoUS",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "MSI",
+          "price": {
+            "amount": 320.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“But now we have 50[60].” / “MSI?” / “320 dollars.” / “Right now, we still have one.”"
+        }
+      ]
+    },
+    {
+      "agent": "Princess",
+      "date": "9/10/2026",
+      "retail_id": "VJR0W0",
+      "location": "35 E 11400 S, Sandy, UT 84070",
+      "retailer": "Best Buy",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5060 Ti",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "PNY",
+          "price": {
+            "amount": 499.99,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not_stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“Available at the GeForce RTX 5060 Ti with 8GB of memory… This one is from NVIDIA and PNY. And the price is $499.99.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "PNY",
+          "price": {
+            "amount": 449.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 2,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“The PNY 5060, the price is $449” / “there is two units that they have available.” Inventory was at Jordan Landing Boulevard."
+        },
+        {
+          "gpu_model": "GeForce RTX 5070",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "ASUS Prime",
+          "price": {
+            "amount": 909.99,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“For the 5070… we have the ASUS Prime NVIDIA. And the price is $909.99. We have one unit of that.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5070 Ti",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Gigabyte",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“One unit of the Gigabyte NVIDIA RTX 5070 Ti” / “They have one, and the price is $1,249 and 99 cents.” Inventory was at South Lake City."
+        },
+        {
+          "gpu_model": "GeForce RTX 5080",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Not stated",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not_stated",
+          "restock_date": "Not stated",
+          "confidence": "medium",
+          "evidence": "“50-80, 50-80, 50-80, $1,699” / later: “All the way to the 5080 only, not the 5090.”"
+        },
+        {
+          "gpu_model": "GeForce RTX 5090",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "MSI",
+          "price": {
+            "amount": null,
+            "currency": "USD",
+            "price_type": "Not_stated",
+            "raw": null
+          },
+          "availability": "out_of_stock",
+          "quantity": "Not_stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“It doesn't inventory for the MSI NVIDIA 5090” / “that one is not in stock in even nearby stores.”"
+        },
+        {
+          "gpu_model": "Radeon RX 9070 XT",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "AMD",
+          "variant": "Gigabyte",
+          "price": {
+            "amount": 929.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": "Not_stated",
+          "restock_date": "Not stated",
+          "confidence": "high",
+          "evidence": "“we have that one in stock for the Gigabyte Radeon RX 9070 XT. The price is $929.”"
+        }
+      ]
+    },
+    {
+      "agent": "Jecirie",
+      "date": "9/9/2026",
+      "retail_id": "DOOIW6",
+      "location": "11910 Meridian E, #D, Puyallup, WA 98373",
+      "retailer": "Computer Citi",
+      "source": "Call transcript",
+      "products": [
+        {
+          "gpu_model": "GeForce RTX 5060",
+          "gpu_category": "desktop_discrete",
+          "manufacturer": "NVIDIA",
+          "variant": "Not stated",
+          "price": {
+            "amount": 700.0,
+            "currency": "USD",
+            "price_type": "Listed_price",
+            "raw": null
+          },
+          "availability": "in_stock",
+          "quantity": 1,
+          "restock_date": "Not stated",
+          "confidence": "low",
+          "evidence": "“700, okay. And how many stocks do you have available?” / “The one.” The transcript does not clearly identify the brand/variant, and the model-to-price connection is somewhat unclear."
+        }
+      ]
+    }
+  ]
+}
